@@ -1,0 +1,13 @@
+C:\Users\HAFIZ-TECH\source\repos\StudentFirstApp\StudentFirstApp\bin\Debug\StudentFirstApp.exe.config
+C:\Users\HAFIZ-TECH\source\repos\StudentFirstApp\StudentFirstApp\bin\Debug\StudentFirstApp.exe
+C:\Users\HAFIZ-TECH\source\repos\StudentFirstApp\StudentFirstApp\bin\Debug\StudentFirstApp.pdb
+C:\Users\HAFIZ-TECH\source\repos\StudentFirstApp\StudentFirstApp\bin\Debug\EntityFramework.dll
+C:\Users\HAFIZ-TECH\source\repos\StudentFirstApp\StudentFirstApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HAFIZ-TECH\source\repos\StudentFirstApp\StudentFirstApp\bin\Debug\EntityFramework.xml
+C:\Users\HAFIZ-TECH\source\repos\StudentFirstApp\StudentFirstApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HAFIZ-TECH\source\repos\StudentFirstApp\StudentFirstApp\obj\Debug\StudentFirstApp.csproj.AssemblyReference.cache
+C:\Users\HAFIZ-TECH\source\repos\StudentFirstApp\StudentFirstApp\obj\Debug\StudentFirstApp.csproj.CoreCompileInputs.cache
+C:\Users\HAFIZ-TECH\source\repos\StudentFirstApp\StudentFirstApp\obj\Debug\StudentF.1217F7FE.Up2Date
+C:\Users\HAFIZ-TECH\source\repos\StudentFirstApp\StudentFirstApp\obj\Debug\StudentFirstApp.exe
+C:\Users\HAFIZ-TECH\source\repos\StudentFirstApp\StudentFirstApp\obj\Debug\StudentFirstApp.pdb
+C:\Users\HAFIZ-TECH\source\repos\StudentFirstApp\StudentFirstApp\obj\Debug\StudentFirstApp.exe.config
